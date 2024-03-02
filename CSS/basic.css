@@ -1,0 +1,93 @@
+
+*{
+    background-color: black;
+}
+.box{
+    height: 100px;
+    width:100px;
+    margin:10px;
+    padding:50px;
+  
+  
+    border:2px solid Black;
+    box-sizing: border-box;
+
+}
+
+#org{
+  background-color: rgb(182, 28, 131);
+  
+}
+
+#wht{
+  background-color: white;
+}
+
+#gre{
+  background-color: green;
+}
+
+
+
+
+
+
+/* HomeWork */
+.Home{
+    border: 1px solid red;
+    color: white;
+    height:360px;
+    width:320px;
+    background-color: white;
+    padding: 20px  10px 20px 10px;
+    background-color: white;
+    margin-left: 100px;
+   
+}
+ 
+.Love{
+    width: 320px;
+    border-radius: 7px;
+    height:200px;
+    background-color: white;
+}
+h2{
+    color:black;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.line{
+    
+    margin-left: 5px;
+   width: 76%; /* Adjust as needed */
+}
+
+.rating p {
+    display: inline-block;
+   margin:0px;
+   padding-left: 100;
+
+}
+
+.rate {
+    font-size: 20px; /* Adjust as needed */
+    color: black;
+    font-weight: bold;
+    padding-right: 10px;
+
+  }
+  
+  .Rate1 {
+    font-size: 20px; /* Adjust as needed */
+    color: rgb(67, 66, 66);
+    padding-right: 10px;
+  }
+  
+  .Rate3 {
+    font-size: 20px; /* Adjust as needed */
+    background-color: rgb(14, 213, 213);
+    color: rgb(255, 255, 255); /* Adjust color as needed */
+    width: 78px;
+  }
+
